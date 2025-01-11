@@ -60,10 +60,4 @@ Have questions or want to learn more? Reach out to us:
 
 ---
 
-### License
-
-This repository and its contents are licensed under the [MIT License](LICENSE).
-
----
-
 Thank you for visiting DeFiNity AI. Together, let's shape the future of decentralized finance with precision and confidence.
