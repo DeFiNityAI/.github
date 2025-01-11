@@ -1,5 +1,7 @@
 # Welcome to DeFiNity AI
 
+---
+
 ## About Us
 DeFiNity AI is at the forefront of innovation, harnessing the power of artificial intelligence to deliver next-generation insights and solutions for decentralized finance (DeFi). With cutting-edge technology and a deep understanding of market dynamics, we help users make informed decisions and navigate the rapidly evolving DeFi landscape with precision and confidence.
 
