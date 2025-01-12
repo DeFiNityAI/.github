@@ -20,7 +20,7 @@ Our mission is to shape the future of decentralized ecosystems by offering unpar
 
 DeFiNity AI utilizes a state-of-the-art technology stack to ensure precision, scalability, and efficiency. Our stack includes:
 
-- **Programming Languages**: Python, Scala, Solidity.
+- **Programming Languages**: Python, Scala.
 - **AI and Machine Learning**: TensorFlow, PyTorch, and custom AI models tailored for financial forecasting.
 - **Blockchain Integration**: Ethereum, Solana, and other DeFi-compatible platforms.
 - **Data Infrastructure**: High-performance pipelines for real-time data processing and analytics.
